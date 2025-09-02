@@ -1,6 +1,6 @@
 {
   "name": "CustomStepper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, bare-metal stepper motor library for Arduino and PlatformIO. Provides precise control over 28BYJ-48 motors with ULN2003 drivers without the overhead of the default Stepper.h library.",
   "keywords": "stepper, motor, 28BYJ-48, ULN2003, arduino, embedded",
   "repository": {
@@ -18,4 +18,5 @@
   "frameworks": "arduino",
   "platforms": "atmelavr, espressif8266, espressif32",
   "headers": "CustomStepper.h"
+
 }
